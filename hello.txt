@@ -1,1 +1,1 @@
-﻿Hello, Git! This is my first change.
+﻿Hello, Git! Second version.
