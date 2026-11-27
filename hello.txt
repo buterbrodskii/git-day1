@@ -4,3 +4,5 @@
 Строка из feature-b
 GitExtensions commit practice
 Change from main
+Change from gui-feature
+
