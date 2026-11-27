@@ -1,3 +1,4 @@
 ﻿Hello, Git! Second version.
 Строка из main
 Строка из feature-a
+Строка из feature-b
