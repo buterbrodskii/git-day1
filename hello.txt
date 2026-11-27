@@ -6,3 +6,4 @@ GitExtensions commit practice
 Change from main
 Change from gui-feature
 
+Иванов Ярослав Алексеевич
